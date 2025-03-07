@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![TypeScript](https://img.shields.io/badge/-Docker-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![TypeScript](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2D79C7)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
