@@ -1,9 +1,5 @@
 # 👋 Hey, I'm Leonardo Victor, a developer passionate about creating innovative digital experiences and interfaces that combine functionality with attractive design.
 
-<a href="https://leonardovictor.vercel.app"><img src="https://img.shields.io/badge/-leonardovictor.vercel.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/leonardo-victor-42873125a/"><img src="https://img.shields.io/badge/-Leonardo%20Victor-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:leonardoworld@outlook.com"><img src="https://img.shields.io/badge/-leonardoworld@outlook.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
 ---
 
 ## 👨🏻‍💻 About Me
