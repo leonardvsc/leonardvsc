@@ -7,7 +7,7 @@
 ---
 
 ## 👨🏻‍💻 About Me
-
+.
 I'm a **junior full-stack developer** with over **5 years of programming experience**, passionate about building modern, scalable, and well-architected solutions. I work with technologies like **TypeScript**, **React**, **Next.js**, **Node.js**, **PostgreSQL**, and more, always focusing on clean code and best practices.
 
 My journey in programming started at age 11 when I wanted to create a private server for a game I loved. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
@@ -81,6 +81,6 @@ If you'd like to connect, collaborate, or discuss opportunities, feel free to [s
 
 **I'm actively seeking junior developer opportunities** and would love to discuss how I can contribute to your team!
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=leonardvsc&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
