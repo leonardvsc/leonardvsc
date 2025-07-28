@@ -1,14 +1,13 @@
 # 👋 Hey, I'm Leonardo Victor, a developer passionate about creating innovative digital experiences and interfaces that combine functionality with attractive design.
 
 ## 👨🏻‍💻 About Me
-.
+
 I'm a **junior full-stack developer** with over **5 years of programming experience**, passionate about building modern, scalable, and well-architected solutions. I work with technologies like **TypeScript**, **React**, **Next.js**, **Node.js**, **PostgreSQL**, and more, always focusing on clean code and best practices.
 
 My journey in programming started at age 11 when I wanted to create a private server for a game I loved. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
 
 Since then, I've remained deeply passionate about programming, constantly learning new technologies and improving my skills. **I'm actively seeking opportunities to start my professional career** and contribute to meaningful projects while continuing to grow as a developer.
 
----
 
 ## 📚 What will you find here?
 
