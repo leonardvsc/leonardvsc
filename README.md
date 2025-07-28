@@ -27,8 +27,6 @@ This GitHub reflects my journey, learning process, and commitment to clean, purp
 
 If you'd like to connect, collaborate, or discuss opportunities, feel free to [send me an email](mailto:leonardoworld@outlook.com) or reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-victor-42873125a/). I'm always open to good conversations and new opportunities!
 
-## 🛠 Stack Tecnológica
-
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
